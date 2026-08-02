@@ -196,21 +196,6 @@ Go to **[http://localhost:8000](http://localhost:8000)**
 
 ---
 
-## Team
-
-| Role | Name | GitHub |
-|---|---|---|
-| **Group Head** | Tejashree Desai | [@tejudesai21](https://github.com/tejudesai21) |
-| Member | Nikhil Chandane | [@nikhilchandane0221-design](https://github.com/nikhilchandane0221-design) |
-| Member | Sanskruti Chidrewar | [@chidrewarsanskruti-lab](https://github.com/chidrewarsanskruti-lab) |
-| Member | Omsai Barhate | [@omsai8446](https://github.com/omsai8446) |
-| Member | Mrunmayee | [@mrunmayee-creater](https://github.com/mrunmayee-creater) |
-| Member | Prem Gedam | [@premvoid](https://github.com/premvoid) |
-| Member | Shruti Ghule | [@shrutighule105-cyber](https://github.com/shrutighule105-cyber) |
-| Member | Shreyash | [@shreyash-726](https://github.com/shreyash-726) |
-
----
-
 <div align="center">
   <br/>
   <sub>Built with ❤️ by the AIML Department, Zeal Institute of Technology</sub>
